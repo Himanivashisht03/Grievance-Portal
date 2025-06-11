@@ -18,16 +18,6 @@ Frontend: ReactJS, Tailwind CSS
 Backend: NodeJS
 Database: MongoDB
 
-
-## Contributors
-This project is contributed by the following team members:
-Agam Kapil
-Agam Raizada 
-Akshay Saxena
-Arsh Singh 
-Lokesh Yadav
-
-
 ## Installation
 To run the Grievance Portal locally, follow these steps:
 
@@ -40,11 +30,5 @@ To run the Grievance Portal locally, follow these steps:
 7. Access the application in your web browser for the user at http://localhost:3000.
 
 ## Contact Information
-For any inquiries or suggestions regarding the Grievance Portal, please contact the project contributors:
-
-
-Agam Kapil: iit2021044@iiita.ac.in
-Agam Raizada : iit2021046@iiita.ac.in
-Akshay Saxena: iit2021047@iiita.ac.in
-Arsh Singh: iit2021064@iiita.ac.in
-Lokesh Yadav: iit2021065@iiita.ac.in
+For any inquiries or suggestions regarding the Grievance Portal :
+Himani Vshisht : btbtc23219@banasthali.in
