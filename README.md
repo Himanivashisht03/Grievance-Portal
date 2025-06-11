@@ -31,4 +31,5 @@ To run the Grievance Portal locally, follow these steps:
 
 ## Contact Information
 For any inquiries or suggestions regarding the Grievance Portal :
-Himani Vshisht : btbtc23219@banasthali.in
+
+Himani Vashisht : btbtc23219@banasthali.in
